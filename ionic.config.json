@@ -1,0 +1,8 @@
+{
+  "name": "Normandy AirLines",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "6420256d"
+}
